@@ -25,7 +25,7 @@ pipeline {
         }
         stage('deploy'){
             steps{
-                sh 'echo "delivery in telegram bot"'
+                sh 'echo "deploy"'
             }
         }
     }
