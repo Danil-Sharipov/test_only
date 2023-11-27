@@ -7,6 +7,6 @@
 5) Получаем токен
 6) Создаем в jenkins 2 credentials
 ![alt text](./screenshots/fir.png)
-7) После запуска pipeline должны получить
+7) После запуска pipeline должны получить следующее сообщение
 ![alt text](./screenshots/sec.png)
 
