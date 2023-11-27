@@ -18,6 +18,7 @@ pipeline {
                     echo "test"
                     pip install docker
                     python3 test/test1.py
+                    python3 test/test2.py
                     
                 '''
             }
