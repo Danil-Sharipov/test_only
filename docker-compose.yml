@@ -7,7 +7,6 @@ services:
     command: /opt/spark/bin/spark-class org.apache.spark.deploy.master.Master
     ports:
       - "8888:8080"
-      - "7077:7077"
     networks:
       - spark-network
     volumes:
